@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Megha Sunayana Ganisetti
 
-<!--
-**meghasunayana/meghasunayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Currently learning programming fundamentals, AI
+🚀 Interested in programming and software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 CS undergraduate student
+* 🌱 Currently learning AI and programming fundamentals
+* 💡 Curious about technology and software development
+* 🚀 Working on improving my coding and problem-solving skills
+
+---
+
+## 📊 GitHub Stats
+
+![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghasunayana\&show_icons=true\&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meghasunayana\&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghasunayana\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Projects
+
+I will be uploading my projects here.
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: www.linkedin.com/in/megha-sunayana
+
+
